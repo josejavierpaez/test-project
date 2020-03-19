@@ -15,10 +15,11 @@ Habilitando funciones como Llamadas, envió de SMS, recepción de SMS. En orden 
 Cada **Proveedor o Carrier** tiene un código único internacional,
 Compañías de telecomunicaciones Dominicana y sus códigos.:
 
-| **01** |**Altice Dominicana**       |
+| **códigos** |**Compañías**       |
 | ------ |--------------------------- |
-| **02** |**Claro**                   |
-| **04** |**Trilogy Viva Dominicana** |
+| 01 |Altice Dominicana               |
+| 02 |Claro                  |
+| 04 |Trilogy Viva Dominicana |
 
 
 
