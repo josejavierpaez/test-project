@@ -3,7 +3,6 @@
 
 
 Tenemos  una necesidad de poder  registrar, actualizar, eliminar (soft-delete)  
-
 las configuraciones de  un  GSM Gateway.
 
 El GSM Gateway es un equipo que te permite interactuar con SIMs de diferentes proveedores de servicios de telecomunicaciones. 
