@@ -4,7 +4,7 @@
 
 Tenemos  una necesidad de poder  registrar, actualizar, eliminar (soft-delete)  
 
-las configuraciones de  un  GSM,  debajo podrás ver los datos que quiero gestionar 
+las configuraciones de  un  GSM Gateway, debajo podrás ver los datos que quiero gestionar 
 
 o guardar:
 
