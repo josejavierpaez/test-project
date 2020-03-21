@@ -10,8 +10,7 @@ namespace GatewayApi.Migrations
                 name: "Providers",
                 columns: table => new
                 {
-                    ProviderId = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1"),
+                    ProviderId = table.Column<int>(nullable: false),
                     Name = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
