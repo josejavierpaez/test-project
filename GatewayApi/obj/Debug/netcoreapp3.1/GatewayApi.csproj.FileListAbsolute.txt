@@ -52,3 +52,8 @@ C:\Users\josej\Desktop\Nueva carpeta (2)\test-project\GatewayApi\bin\Debug\netco
 C:\Users\josej\Desktop\Nueva carpeta (2)\test-project\GatewayApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\josej\Desktop\Nueva carpeta (2)\test-project\GatewayApi\obj\Debug\netcoreapp3.1\GatewayApi.csproj.CopyComplete
 C:\Users\josej\Desktop\Nueva carpeta (2)\test-project\GatewayApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\josej\Desktop\Nueva carpeta (2)\test-project\GatewayApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\josej\Desktop\Nueva carpeta (2)\test-project\GatewayApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\josej\Desktop\Nueva carpeta (2)\test-project\GatewayApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\josej\Desktop\Nueva carpeta (2)\test-project\GatewayApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\josej\Desktop\Nueva carpeta (2)\test-project\GatewayApi\obj\Debug\netcoreapp3.1\GatewayApi.MvcApplicationPartsAssemblyInfo.cs
